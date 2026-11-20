@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://taxbands.co.uk
+Sitemap: https://taxbands.co.uk/sitemap.xml
